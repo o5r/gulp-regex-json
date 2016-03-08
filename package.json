@@ -1,0 +1,24 @@
+{
+  "name": "gulp-regex-json",
+  "version": "1.0.0",
+  "description": "Search files for a regular expression then put it in a JSON file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lendix/gulp-regex-json.git"
+  },
+  "keywords": [
+    "gulp",
+    "regex",
+    "json"
+  ],
+  "author": "Lendix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lendix/gulp-regex-json/issues"
+  },
+  "homepage": "https://github.com/Lendix/gulp-regex-json#readme"
+}
