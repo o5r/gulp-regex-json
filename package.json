@@ -1,6 +1,6 @@
 {
   "name": "gulp-regex-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search files for a regular expression then put it in a JSON file",
   "main": "index.js",
   "scripts": {
