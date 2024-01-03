@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/Lendix/gulp-regex-json#readme",
   "dependencies": {
-    "gulp-util": "3.0.7",
-    "lodash": "4.6.1",
-    "through2": "2.0.1"
+    "gulp-util": "^3.0.8",
+    "lodash": "^4.17.21",
+    "through2": "^2.0.1"
   }
 }
